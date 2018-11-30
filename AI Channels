@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide.xml</filename>
+  <mode>nomark</mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="20">1</retry>
+  <!--- Download 4 Days 0 = 1 -->
+  <timespan keeppastdays="2" >3</timespan>
+  <update>i</update>
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--CCloud AI Channels -->
+
+
+
+<!--ABC Ai -->
+		 <channel update="f" site="fixed" site_id=
+		"00:00-23:59
+		##title:[COLOR red]ABC Ai[/COLOR] - Channel is currently down
+		##subtitle:All day long
+		##description:Channel currently down :(
+		####" 
+		xmltv_id="ABC Ai">ABC Ai</channel>
+
+		<channel update="i" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:433" xmltv_id="AMC (East)">AMC+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel offset="-1"   update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:448" xmltv_id="Animal Planet (East)">Animal+Planet+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:404" xmltv_id="Bravo (East)">Bravo+Tv+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:102" xmltv_id="WCBS">CBS+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel update="i" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:28" xmltv_id="Consumer News &amp; Business Channel">CNBC+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+<!-- Channel Down-->		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:26" xmltv_id="Comedy Central (East)">Comedy+Central+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:399" xmltv_id="The Discovery Channel (East)">Discovery+Channel+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+<!-- Channel Down-->		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:423" xmltv_id="ESPN">ESPN+Ai+%28Sports%29+%28US%29+%28English</channel>
+		<channel update="i" site="tvpassport.com" site_id="fox-wpmt-harrisburg-pa/3233" xmltv_id="Fox-wpmt">Fox+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:450" xmltv_id="Fox News Channel">Fox+News+Ai+%28News%29+%28US%29+%28English</channel>
+		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:441" xmltv_id="Freeform (East)">Freeform+Ai+%28Family%29+%28US%29+%28English</channel>
+		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:398" xmltv_id="FX (East)">FX+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:9426" xmltv_id="National Geographic Channel">National+Geographic+Ai+%28Documentary%29+%28US%29+%28English</channel>
+		<channel update="I" site="tvpassport.com" site_id="nbc-wgal-lancaster-pa/3235" xmltv_id="NBC (WGAL) Lancaster, PA">NBC+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+<!-- Channel Down-->		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:431" xmltv_id="Nickelodeon (East)">Nickelodeon+Ai+%28Family%29+%28US%29+%28English</channel>
+		<channel update="i" site="tvpassport.com" site_id="pbs-wpsu-university-park-pa-hd/10983" xmltv_id="pbs-wpsu">PBS+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+<!-- Channel Down-->		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:20524" xmltv_id="Paramount Network HDTV (East)">Spike+TV+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:1248" xmltv_id="SundanceTV (East)">Sundance+TV+Ai+%28Movie+Channels%29+%28US%29+%28English</channel>
+		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:20250" xmltv_id="Syfy HDTV">SYFY+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel update="I" site="tvpassport.com" site_id="cw-whpdt3-harrisburg-pa/3238" xmltv_id="CW WHPDT3, Harrisburg PA">The+CW+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel update="I" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:452" xmltv_id="The Learning Channel (East)">TLC+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+		<channel update="i" site="yo.tv" site_id="COUNTRY:us,CHANNEL_ID:432" xmltv_id="USA Network (East)">USA+Network+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+<		<channel update="i" site="tvpassport.com" site_id="mnt-wwor-new-york-ny/1612" xmltv_id="WWOR-TV">WWOR-TV+Ai+%28Entertainment%29+%28US%29+%28English</channel>
+
+
+
+
+
+<!--- End CCloud AI Channels -->
+
+	 
+
+	
+	 <channel update="f" site="fixed" site_id=
+		"00:00-23:59
+		##title:[COLOR blue]cCloud TV AI Channels[/COLOR] - cCloud Listings for AI Channels ONLY
+		##subtitle:All day long
+		##description:[COLOR orange] cCloud AI Channels[/COLOR]
+		####" 
+		xmltv_id="Coming Soon">AI_Channels</channel>	
+		
+</settings>
