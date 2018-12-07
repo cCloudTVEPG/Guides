@@ -1,4 +1,4 @@
 
 git add .
-git commit -am "First Automated update of Guide to Git"
+git commit -am "Second day of batch automation successfull"
 git push 
