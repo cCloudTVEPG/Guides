@@ -1,4 +1,4 @@
 
 git add .
-git commit -am "Second day of batch automation successfull"
+git commit -am "Third day of batch automation successfull"
 git push 
