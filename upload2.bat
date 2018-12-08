@@ -1,9 +1,9 @@
 #!/bin/sh
-cd path/to/your/project
+cd D:\Git\cCloud
 git add --all
 timestamp() {%H:%M:%S }
 
-git commit -am "Regular auto-commit"
+git commit -am "Regular auto-comm"
 git push
 
 PAUSE
