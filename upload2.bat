@@ -1,5 +1,6 @@
 #!/bin/sh
-cd D:\Git\cCloud
+d:
+cd Git\cCloud
 git add --all
 timestamp() {%H:%M:%S }
 
